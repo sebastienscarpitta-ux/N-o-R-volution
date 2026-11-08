@@ -6,12 +6,12 @@ publish: true
 
 Le Haut Conseil de Bretagne est l’instance politique de la Bretagne.
 Les dernières Présidence :
-    - **Gwendal Le Pellec**, chef du Renouveau druidique, en 2032 puis jusqu’à sa mort fin 2071 ;
-    - ensuite **Erwan de Rohan**, jusqu’à sa sénilité en 2074 ;
-    - puis **Joséphine de Rohan**.
+    - Gwendal Le Pellec, chef du Renouveau druidique, en 2032 puis jusqu’à sa mort fin 2071 ;
+    - ensuite Erwan de Rohan, jusqu’à sa sénilité en 2074 ;
+    - puis Joséphine de Rohan.
  
-**En résumé :**
+En résumé :
 - La Bretagne est partagée entre nobles, [[druides]] et [[korrigans]].
 - Les [[Rohan]] contrôlent le politique et le foncier ; les druides gardent une autorité spirituelle et rurale.
 
-**Hook :**
+Hook :

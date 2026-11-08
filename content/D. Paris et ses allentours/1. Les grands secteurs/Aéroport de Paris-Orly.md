@@ -6,7 +6,7 @@ Orly est le petit frère de Roissy, mais personne ne lui dit ça deux fois. Plus
 
 On y vient pour le Sud, pour les affaires, pour fuir ou pour revenir. La nuit, les terminaux se vident et l’aéroport prend un air de vaisseau abandonné, traversé seulement par les annonces, les chariots et quelques silhouettes qui n’ont manifestement pas un vol à prendre.
 
-**En résumé :**
+En résumé :
 - Il dessert beaucoup de vols européens, méditerranéens et africains, et conserve une atmosphère moins monumentale, plus pratique, plus proche de la ville.
 
-**Hook :**
+Hook :

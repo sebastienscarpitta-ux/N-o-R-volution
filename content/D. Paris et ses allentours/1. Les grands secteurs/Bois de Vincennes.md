@@ -6,7 +6,7 @@ Le Bois de Vincennes reste le grand poumon vert de l’est, mais plus personne n
 
 On y raconte des disparitions, des lumières sans origine, des bêtes qui ne devraient pas vivre si près de Paris. Les habitués répondent qu’il faut simplement respecter la forêt ; les plus prudents ajoutent qu’il vaut mieux ne pas y répondre lorsqu’elle vous appelle.
 
-**En résumé :**
+En résumé :
 - Espace vert à l’est de Paris, devenu une lisière sauvage et magique entre la capitale, l’enclave de Dragonland et les banlieues populaires.
 
-**Hook :**
+Hook :

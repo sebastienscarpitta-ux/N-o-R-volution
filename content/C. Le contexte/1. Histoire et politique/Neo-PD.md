@@ -6,9 +6,9 @@ Neo-PD arrive à Paris comme une police privée nouvelle génération : propre, 
 
 ![[Néo-PD.png]]
 
-**En résumé :**
+En résumé :
 - Force de sécurité privée liée à [[Renraku]], encore en cours d’implantation à Paris.
 - Elle remplace progressivement les anciens services policiers et adopte une image propre, touristique et technologique.
 
-**Hook :**
+Hook :
 -  Un Paris « policier »

@@ -6,8 +6,8 @@ La Légion étrangère demeure l’une des dernières grandes institutions milit
 
 ![[Légion étrangère.png]]
 
-**En résumé :**
+En résumé :
 - Pour les Ombres, elle représente un adversaire redoutable, peu enclin aux arrangements et difficile à corrompre.
 - On la déploie plutôt dans les théâtres extérieurs, les zones instables et les missions que la République préfère ne pas assumer publiquement.
 
-**Hook :**
+Hook :

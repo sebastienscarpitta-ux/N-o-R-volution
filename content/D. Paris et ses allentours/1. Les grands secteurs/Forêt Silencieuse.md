@@ -6,6 +6,6 @@ La Forêt Silencieuse porte mal son nom : ce n’est pas qu’il n’y a aucun b
 
 Les gens du coin évitent les chemins non balisés, surtout après le crépuscule. Certains disent que la forêt protège ses propres secrets ; d’autres, plus sombres, prétendent que ce sont des hommes qui y viennent chercher des proies. Dans tous les cas, personne n’y recommande de marcher seul.
 
-**En résumé :**
+En résumé :
 
-**Hook :**
+Hook :

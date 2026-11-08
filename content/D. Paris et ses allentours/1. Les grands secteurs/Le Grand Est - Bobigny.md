@@ -6,6 +6,6 @@ Bobigny et le Grand Est ont la réputation d’être le Paris que les beaux quar
 
 On y entend toutes les langues, on y mange mieux qu’on ne le dit, et l’on y apprend vite à lire les gens. Les médias n’en montrent généralement que les incidents ; les habitants, eux, parlent plutôt des réseaux d’entraide, des fêtes de quartier et de cette impression tenace que la ville-centre les regarde de loin, mais ne les connaît pas.
 
-**En résumé :**
+En résumé :
 
-**Hook :**
+Hook :

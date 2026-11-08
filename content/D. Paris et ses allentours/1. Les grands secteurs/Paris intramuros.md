@@ -6,10 +6,10 @@ Paris intra-muros, c’est la Ville Lumière qui n’a jamais vraiment éteint s
 
 C’est aussi le Paris des privilégiés : élégant, surveillé, un peu suffisant, où l’on parle bas de l’argent et fort de politique. Pour le commun des mortels, c’est la ville où tout semble possible — pourvu que l’on ait le bon badge, le bon compte en banque ou la bonne adresse.
 
-**En résumé :**
+En résumé :
  - Paris associe patrimoine historique, tourisme, réalité augmentée et présence corporatiste. La magie fait partie de son identité.
  - Les Sites d'arcanoarchéologie y sont relativement nombreux. Ils présentent des manifestations astrales évoquant des personnages et des événements historiques. Ces phénomènes intéressent chercheurs, touristes et Éveillés.
 
-**Hook :**
+Hook :
 - Le Louvre donne des cauchemars aux mages
 - Les fées semblent y apprécier la poésie de certain lieux emblématiques de Paris.

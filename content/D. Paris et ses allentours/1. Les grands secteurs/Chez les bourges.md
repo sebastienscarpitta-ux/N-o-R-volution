@@ -6,6 +6,6 @@ publish: true
 
 L’ambiance y est feutrée, polie, légèrement glaciale. Les gens vous regardent avant de vous adresser la parole, et l’on sent que la sécurité n’est pas là pour protéger tout le monde. Pour beaucoup, c’est un quartier où l’on ne va que livrer, réparer, nettoyer — ou être invité.
 
-**En résumé :**
+En résumé :
 
-**Hook :**
+Hook :

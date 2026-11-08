@@ -6,7 +6,7 @@ Roissy, c’est la porte du monde — et l’on sent immédiatement que le monde
 
 Les voyageurs ordinaires y voient des files d’attente et des retards. Les habitués y voient surtout des regards, des valises trop lourdes, des gens qui attendent sans billet. C’est un endroit fait pour partir, arriver, ou ne jamais être remarqué.
 
-**En résumé :**
+En résumé :
 - Roissy est la principale porte aérienne de la France : immenses terminaux, flux constants de voyageurs, fret, vols privés.
 
-**Hook :**
+Hook :

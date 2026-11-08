@@ -6,6 +6,6 @@ La Vallée de la Marne a été repeinte aux couleurs du rêve : résidences prop
 
 Tout le monde admet que c’est agréable — du moins en surface. Mais les anciens disent que l’on y vit comme dans une publicité : tout est prévu, tout est proposé, tout est mesuré. Les jeunes s’y ennuient avec une élégance parfaite, et certains finissent par chercher ailleurs ce que l’endroit promet sans jamais vraiment donner.
 
-**En résumé :**
+En résumé :
 
-**Hook :**
+Hook :
