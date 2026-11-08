@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/sebastienscarpitta-ux/N-o-R-volution.git
+  baseUrl: github.com/sebastienscarpitta-ux/N-o-R-volution
   ignorePatterns:
     - private
     - templates
