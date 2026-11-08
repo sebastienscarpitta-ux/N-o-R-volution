@@ -14,5 +14,5 @@ publish: true
 
 Johnson troll au costume blanc, accent marseillais ; recrute les PJ au PMU de Sarcelles avant d’être abattu par un sniper.
 
-**Hook :
+Hook :
 - Qui était le sniper ?

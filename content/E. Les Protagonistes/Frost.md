@@ -5,7 +5,7 @@ publish: true
 - Nom complet > N.C
 - Alias > Frost
 - Âge > N.C.
-- Nationalité : Russe (né à Vladivostok)
+- Nationalité : Russe
 - Spécialité > La sécurité et la confidentialité absolues des échanges sensibles
 - Affiliation officielle >  N.C.
 - Statut actuel >  Shadowrunner en activité
