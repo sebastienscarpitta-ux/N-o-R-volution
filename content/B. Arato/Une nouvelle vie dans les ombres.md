@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Le choix de devenir Shadowrunner fut d'abord pragmatique. Il lui fallait acquérir les moyens matériels de sa vengeance, développer ses capacités, s'aguerrir, et pour cela, il fallait accepter de vendre ses talents. Il avait aussi intérêt à ne pas rester seul.
 
 Il choisit l'Alias "Arato", signifiant "champion" en Sperethiel. Il serait, se dit-il, le champion de la cause de ses parents, et même de sa famille, dont l'honneur a été confisqué par certains des membres actuels.

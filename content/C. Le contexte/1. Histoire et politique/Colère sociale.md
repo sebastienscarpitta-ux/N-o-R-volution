@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Le citoyen ordinaire vit sous une République qui se dit forte, moderne et protectrice, mais que beaucoup trouvent lointaine. Entre le prix de la sécurité, la pression corporative et le sentiment que les décisions se prennent ailleurs, la lassitude grandit — sans que personne sache encore sous quelle forme elle éclatera.
 
 **En résumé** :

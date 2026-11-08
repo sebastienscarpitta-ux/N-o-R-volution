@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 - Nom complet > Abel Jaxer
 - Alias >
 - Âge > 41 ans

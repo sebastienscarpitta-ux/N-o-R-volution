@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Ce fut une rencontre inattendue qui lui donna un nouvel élan. Alors qu'il errait dans les plans astraux, comme il en avait pris l'habitude, un étrange esprit vint à sa rencontre. Il s'agissait d'un grand requin, imprégnée d'énergie mystique. Talwyn prit d'abord peur, mais le requin insista, finit par l'acculer, non pour l'attaquer, mais pour lui parler. Il s'appelait Kurano, ancien esprit protecteur de la lignée des Hirasuke, mentor de mère Akemi. Après la mort de celle-ci, il avait erré dans les plans astraux, mais il avait désormais trouvé l'héritier de sa protégée. Lui, Talwyn, devait désormais accepter l'héritage de sa mère. Le jeune elfe secoua la tête : il se souvenait de la promesse adressée à son père mourant, celle d'être fidèle aux Lorgeril. Il ne voulait pas trahir ce serment, alors même que plus rien ne semblait avoir de valeur. Kurano plongea ses yeux dans les siens et déclara : "Tu es ignorant. Ta lignée, qui prétend à la pureté, est corrompue. Mais tu peux échapper à cette corruption. Tu peux en restaurer l'éclat. Pour cela, il faut que tu t'engages dans la voie choisie pour toi par ta mère, la Voie du guerrier, qui seule te donnera les moyens de faire renaître le bien là où le mal s'est partout imprégné. Si tu acceptes, je te guiderai, je te t'enseignerai, je t'initierai. Mais ce choix ne peut venir que de toi."
 
 ![[Kurano.png]]

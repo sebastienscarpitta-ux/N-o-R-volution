@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Enviyata Corp. est une corporation pharmaceutique et biotechnologique française. Son siège est à Rennes, avec des laboratoires sur la côte bretonne et un centre de distribution en région parisienne. Elle emploie quelques milliers de personnes. Ce n’est pas un memebre des [[mégacorporations]], mais elle est solide, respectée et rentable.
 
 **En résumé :**

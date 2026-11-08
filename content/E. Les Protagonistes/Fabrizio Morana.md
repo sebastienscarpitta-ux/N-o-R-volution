@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 - Nom complet > Fabrizio Morana
 - Alias >
 - Âge > 32 ans

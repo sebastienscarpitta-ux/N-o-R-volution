@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 La Brume est le cauchemar breton : un brouillard anormal qui avale des terres et dérègle la magie.
 
 **En résumé :**

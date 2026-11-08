@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+ 
  La Bretagne n’est pas une province tranquille : noblesse, druides, fées et mouvements indépendantistes se partagent un territoire où l’autorité dépend beaucoup du lieu. À Rennes ou dans les zones industrielles, ce sont les institutions qui comptent ; dans les campagnes, ce sont souvent les druides.
 
 Le Haut Conseil de Bretagne est l’instance politique de la Bretagne.

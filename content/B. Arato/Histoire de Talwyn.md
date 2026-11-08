@@ -1,3 +1,6 @@
+--- 
+publish: true 
+---
 ## Origines et drame familial
 
 [[La famille Lorgeril]] est une lignée fière de la « pureté » de son sang elfique et de son influence politique et économique. Le patriarche, Artus de Lorgeril, obsédé par cette idée, soutient secrètement [[Le projet S.O.M.A.]], un programme corporatiste mêlant science et magie visant à orienter génétiquement sa descendance (métatype elfique, Éveil, “pureté” du sang). Ce projet, mené via la corporation Enviyata, provoque une maladie lente et dégénérative chez les membres de la famille jugés « imparfaits ».

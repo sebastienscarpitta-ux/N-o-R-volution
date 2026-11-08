@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Levallois-Perret - Rue Aristide briand.
 
 Le quartier est coincé entre les tours de [[La Défense]] et les beaux quartiers de [[Paris intramuros]], et ni l’un ni l’autre ne veut vraiment en répondre. Ici, [[la Zone]] se vit de près. Les immeubles haussmanniens et les blocs d’après-guerre portent des rallonges en tôle, des toits de fortune et des passerelles tendues d’une façade à l’autre. Les rues sont étroites, bruyantes et colorées. Les marchés s’étendent sur les trottoirs jusque tard dans la nuit. Les ateliers ouvrent sur la rue, les cuisines de rue fument à chaque coin et des néons de toutes les couleurs éclairent les enseignes. Les tours de [[La Défense]], à l’horizon, rappellent d’où vient l’argent.

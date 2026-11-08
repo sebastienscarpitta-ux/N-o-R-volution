@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Elle existe surtout comme un projet ambitieux de gestion civique et de surveillance : les uns y voient une modernisation nécessaire, les autres le début d’une fiche permanente pour chaque citoyen.
 
 **En résumé** :

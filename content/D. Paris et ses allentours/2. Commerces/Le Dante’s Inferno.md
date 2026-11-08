@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Ancien musée Rodin
 
 **En résumé :**

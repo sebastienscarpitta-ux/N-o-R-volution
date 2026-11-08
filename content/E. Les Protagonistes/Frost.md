@@ -1,5 +1,9 @@
+--- 
+publish: true 
+---
+
 - Nom complet > N.C
-- Alias > **Frost**
+- Alias > Frost
 - Âge > N.C.
 - Nationalité : Russe (né à Vladivostok)
 - Spécialité > La sécurité et la confidentialité absolues des échanges sensibles

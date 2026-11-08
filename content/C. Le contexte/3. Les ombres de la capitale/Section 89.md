@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Section 89 est une nébuleuse révolutionnaire d’extrême gauche, connue pour ses actions contre l’oligarchie et les corporations. Elle a longtemps été associée aux attentats, mais elle se transforme : de plus en plus de ses militants préfèrent pirater, révéler et dénoncer plutôt que détruire
 
 **En résumé :**

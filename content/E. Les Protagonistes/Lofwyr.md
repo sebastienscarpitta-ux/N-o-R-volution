@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Éveillé en 2012 près des volcans de l’Eifel, en Allemagne, Lofwyr comprend très tôt que le pouvoir du Sixième Monde ne se conquiert pas seulement par la force, mais par le capital, l’industrie et l’information. En 2037, il se présente devant le conseil de [[Saeder-Krupp]] sous forme métahumaine, révèle détenir 63% des actions, puis reprend sa forme draconique : personne ne pose de question. Il devient président-directeur général, évince Wilhelmina Graff-Beloit et restructure l’empire en Saeder-Krupp, dont il est l’unique propriétaire.
 
 ![[Lofwyr.jpg]]

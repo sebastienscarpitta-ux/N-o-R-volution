@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+ 
  - Nom complet > Galvin Morgtarh
 - Alias > Momo
 - Âge > N.C. (ne sait pas lui même)

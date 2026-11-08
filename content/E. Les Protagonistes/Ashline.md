@@ -1,5 +1,9 @@
-- Nom complet > **Naëlle Varese** 
-- Alias > **Ashline** (usage professionnel) 
+--- 
+publish: true 
+---
+
+- Nom complet > Naëlle Varese
+- Alias > Ashline (usage professionnel) 
 - Âge > 29 ans 
 - Nationalité : française (origines italiennes) 
 - Spécialité > analyse matricielle avancée, éthique algorithmique, audit de systèmes décisionnels 

@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 TrevaTech est une corporation bretonne fondée par [[la famille Lorgeril]], spécialisée dans l’agroalimentaire premium et les biotechnologies agricoles. Dirigée par [[Artus de Lorgeril]] comme un patrimoine familial, elle défend une identité bretonne traditionnelle et élitiste, privilégiant les elfes et les familles anciennes.
 
 **En résumé :**

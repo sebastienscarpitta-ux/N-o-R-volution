@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 - Nom complet > Neventer Svaltar
 - Alias >
 - Âge > 19 ans

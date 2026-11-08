@@ -1,5 +1,9 @@
-- Nom complet > **Aodren Mezec**
-- Alias > **Doc Holiday**
+--- 
+publish: true 
+---
+
+- Nom complet > Aodren Mezec
+- Alias > Doc Holiday
 - Âge > 35 ans
 - Nationalité : française (origines bretonne) 
 - Spécialité > Ancien Infirmier militaire, Magicien

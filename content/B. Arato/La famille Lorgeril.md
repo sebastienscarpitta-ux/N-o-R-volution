@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 La vie du Shadowrunner Arato, de son vrai nom [[Talwyn de Lorgeril]], a toujours été marquée par de profonds conflits internes, comme s'il avait été condamné à marcher sur une ligne de crête sans jamais savoir sur quel versant il pouvait s'engager, sans pouvoir le faire en fait sans se mettre en danger et, surtout, renier une partie de lui-même.
 
 Talwyn de Lorgeril est né en 2050 dans la famille elfique de Lorgeril, issue de la petite noblesse du royaume de Bretagne, et depuis des générations au service de la famille de [[Rohan]]. Leur lien remonterait au XVe siècle... Ce "pedigree" aristocratique aurait pu assurer à Talwyn une enfance épanouie, à l'abri de bien des affres de ce monde, et ce fut partiellement le cas. Mais son ascendance complexe est venue ternir ce tableau.

@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Les korrigans de Brocéliande sont une puissance à part : ni humains, ni tout à fait des alliés. Ils ont obtenu l’autonomie de leur forêt et veillent jalousement sur leurs intérêts, tout en accusant volontiers les humains d’avoir détraqué l’équilibre du monde.
 
 **En résumé :**

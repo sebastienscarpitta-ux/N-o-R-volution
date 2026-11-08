@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 La maison de Rohan est la famille noble bretonne la plus visible. Elle incarne le pouvoir terrien, politique et économique de la région, et s’est rapprochée des corporations pour moderniser — ou exploiter, selon les points de vue — les richesses de la Bretagne.
 
 **En résumé :**

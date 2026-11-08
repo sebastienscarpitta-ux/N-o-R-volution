@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Pour les Parisiens, le Champ-de-Mars est à la fois un jardin, une vitrine et un symbole : le Paris que l’on montre au monde, avec sa beauté augmentée, son passé réécrit et son ordre impeccable. Pour les gens des Ombres, c’est un terrain trop exposé pour s’y attarder.
 
 **En résumé :**

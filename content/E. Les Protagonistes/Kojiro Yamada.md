@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 - Nom complet > Kojiro Yamada
 - Alias >
 - Âge > 63 ans

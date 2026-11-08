@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 - Nom complet > Gabriel de Saint-Gilles
 - Alias >
 - Âge > 29 ans

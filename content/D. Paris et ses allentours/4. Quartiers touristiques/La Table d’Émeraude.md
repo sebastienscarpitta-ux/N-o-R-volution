@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 Située rue de la Huchette, cette boutique est très connue dans les cercles magiques de Paris. C’est le fournisseur de prédilection des snobs Éveillés.
 
 **En résumé :**

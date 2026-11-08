@@ -1,5 +1,9 @@
-- Nom complet > **Ryu Tanaka**
-- Alias > **Yokaï** 
+--- 
+publish: true 
+---
+
+- Nom complet > Ryu Tanaka
+- Alias > Yokaï 
 - Âge > 30 ans
 - Nationalité : Japonaise
 - Spécialité > infiltration numérique, surveillance et soutien logistique.

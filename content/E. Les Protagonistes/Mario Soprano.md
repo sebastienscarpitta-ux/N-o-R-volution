@@ -1,3 +1,7 @@
+--- 
+publish: true 
+---
+
 - Nom complet > Mario Soprano
 - Alias > N.C
 - Âge > N.C
