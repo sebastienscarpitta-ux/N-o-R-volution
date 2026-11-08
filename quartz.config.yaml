@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sebastienscarpitta-ux.github.io/N-o-R-volutio
+  baseUrl: sebastienscarpitta-ux.github.io/N-o-R-volution
   ignorePatterns:
     - private
     - templates
