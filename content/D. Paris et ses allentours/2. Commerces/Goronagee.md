@@ -4,8 +4,8 @@ publish: true
 
 Gare de Nord
 
-**En résumé :**
+En résumé :
 -  Bar inclusif et solidaire près de la Gare du Nord
 
-**Hook :**
+Hook :
 

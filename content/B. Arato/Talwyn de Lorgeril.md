@@ -2,8 +2,8 @@
 publish: true 
 ---
 
-- Nom complet > **Talwyn de Lorgeril** (famille aristocratique liée à la Maison de Rohan)
-- Alias > **Arato** ("champion" en sperethiel) 
+- Nom complet > Talwyn de Lorgeril (famille aristocratique liée à la Maison de Rohan)
+- Alias > Arato ("champion" en sperethiel) 
 - Âge > 26 ans  (13 mars 2050)
 - Nationalité : française (origines bretonne et japonaise) 
 - Spécialité > Maitrise du katana, de la sorcellerie et de la conjuration
